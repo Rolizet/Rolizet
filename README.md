@@ -10,4 +10,9 @@ Habilidades: Data Analyst / Data Engineer / Data Scientist / PYTHON / SQL / POWE
 - 😄 Pronombres: She 
 - 👯 Busco colaborar en proyectos donde puede aprender y ganar experiencia
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rocio-alaniz-4418791ba /)  
+<a href="https://www.linkedin.com/in/rocio-alaniz-4418791ba">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+</a>
+
+#[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
+#(https://www.linkedin.com/in/rocio-alaniz-4418791ba /)  
