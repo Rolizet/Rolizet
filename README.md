@@ -7,7 +7,7 @@ Soy profesora de inglés con un fuerte interés en el crecimiento personal y pro
 Habilidades: Data Analyst / Data Engineer / Data Scientist / PYTHON / SQL / POWER BI / ML
 
 - 🌱 Estoy aprendiendo Machine Learning 
-- 😄 Pronombres: She 
+- 😄 Pronombre: She 
 - 👯 Busco colaborar en proyectos donde pueda aprender y ganar experiencia
 - 📫 Como contactarme: rolizetalaniz@gmail.com o a traves de LinkedIn 👇
 
