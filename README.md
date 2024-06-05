@@ -9,5 +9,6 @@ Habilidades: Data Analyst / Data Engineer / Data Scientist / PYTHON / SQL / POWE
 - 🌱 Estoy aprendiendo Machine Learning 
 - 😄 Pronombres: She 
 - 👯 Busco colaborar en proyectos donde pueda aprender y ganar experiencia
+- 📫 Como contactarme: rolizetalaniz@gmail.com o a traves de LinkedIn 👇
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
