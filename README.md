@@ -1,5 +1,5 @@
 
-<img src="[[https://media.giphy.com/media/L8K62iTDkzGX6/giphy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-science&psig=AOvVaw0xJxIixPOgZyt2ENVydW-c&ust=1721928475894000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOixx-GZwIcDFQAAAAAdAAAAABAQ)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYyMDFkcjRoaTc3d2huMGw5eHc4b3dqdjQyNGxoNjI5NHQ1aXJtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rL0k8t2mSmWbzO8fl/giphy.gif)" width="500" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYyMDFkcjRoaTc3d2huMGw5eHc4b3dqdjQyNGxoNjI5NHQ1aXJtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rL0k8t2mSmWbzO8fl/giphy.gif" width="500" />
 
 ### Hola 👋, me llamo Rocio
 #### Prof. de Ingles - Data Science
