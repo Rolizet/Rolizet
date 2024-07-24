@@ -52,3 +52,10 @@ Habilidades: Data Analyst / Data Engineer / Data Scientist / PYTHON / SQL / POWE
 
 ¡Conéctate conmigo!
 Si compartes esta pasión o tienes oportunidades emocionantes, no dudes en enviarme un mensaje.
+<br>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZqdDN0MnR2eWo1Mm44YTBzOG8ybjkyYmE1OTUxdjVueGlwczg0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yRHVLXGeodopGpq7l/giphy.gif" width="300" />
+</p>
+
+<br>
