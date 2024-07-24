@@ -16,9 +16,10 @@
 Futura Data Sciencist con una sólida formación como profesora de inglés, con un fuerte interés en el crecimiento personal y profesional. Hace dos años, decidí embarcarme en una emocionante aventura en el mundo de Data Science, complementando así mi experiencia docente. Estoy entusiasmada por seguir aprendiendo y aplicando mis habilidades en este campo en constante evolución.
 
 <br>
-Actualmente, estoy finalizando mi formación en Data Science en Henry
+Actualmente, estoy finalizando mi formación en Data Science en Henry!
 
 <br>
+
 Habilidades: Data Analyst / Data Engineer / Data Scientist / PYTHON / SQL / POWER BI / ML
 
 <br>
