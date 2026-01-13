@@ -32,10 +32,23 @@ Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures ·
 - 📫 Como contactarme: rolizetalaniz@gmail.com o a traves de LinkedIn 👇
 
 <p align="left">
-<a href="[linkedin](https://www.linkedin.com/in/rocio-alaniz/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
+  <a href="https://www.linkedin.com/in/rocio-alaniz/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn Rocío Alaniz"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/company/synapseai-group/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+         alt="Synapse.ai LinkedIn"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
-![synapse](https://www.linkedin.com/company/synapseai-group)
 
 <br>
 
