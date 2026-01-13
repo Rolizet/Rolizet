@@ -9,28 +9,33 @@
 
 <br>
 
-#### Prof. de Ingles - Data Science
+#### AI Engineer y AI Architect - Prof. de Ingles
 
 <br>
 
-Data Sciencist con una sólida formación como profesora de inglés, con un fuerte interés en el crecimiento personal y profesional. Hace un tiempo, decidí embarcarme en una emocionante aventura en el mundo de Data Science, complementando así mi experiencia docente. Estoy entusiasmada por seguir aprendiendo y aplicando mis habilidades en este campo en constante evolución.
+Ingeniera en IA Generativa y Arquitecta de IA. CEO & Co-Founder en synapse.ai, liderando el diseño y despliegue de sistemas LLM en producción, incluyendo pipelines RAG, orquestación de agentes y workflows multi-paso. Fuerte base en machine learning, sistemas de datos y arquitecturas basadas en APIs, enfocada en resolver problemas reales de negocio con soluciones de IA escalables.
 
 <br>
-Actualmente, estoy trabajando como ML engineer en Synapse.AI!
-
-<br>
-
-Habilidades: Data Analyst / Data Engineer / Data Scientist / PYTHON / SQL / POWER BI / ML
+Actualmente, soy Founder & CEO en synapse.ai!
 
 <br>
 
-- 🌱 Estoy aprendiendo Machine Learning 
+Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures · Python · Machine Learning · NLP · Vector Databases · API-Driven Architectures · Azure · CI/CD · GitHub Actions
+
+<br>
+
+- 🚀 Trabajo en el diseño y despliegue de sistemas de IA generativa en producción, incluyendo RAG, orquestación de agentes y workflows LLM multi-paso
+- 🧠 Especializada en LLMs, NLP, embeddings y evaluación de modelos 
 - 😄 Pronombre: She 
-- 👯 Busco colaborar en proyectos donde pueda aprender y ganar experiencia
+- 👯 Abierta a colaborar en proyectos de IA aplicada y soluciones con impacto real en negocio
 - 📫 Como contactarme: rolizetalaniz@gmail.com o a traves de LinkedIn 👇
 
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
+</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/company/synapseai-group/?viewAsMember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
 </p>
 
 <br>
