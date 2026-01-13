@@ -38,12 +38,13 @@ Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures ·
          alt="LinkedIn Rocío Alaniz"
          height="30"
          width="40" />
+    Rocío Alaniz
   </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/synapseai-group/" target="_blank">
-    Synapse.ai (Company)
+    Synapse.ai
   </a>
 </p>
-
 
 
 <br>
