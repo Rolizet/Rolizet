@@ -35,10 +35,6 @@ Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures ·
 <a href="[https://linkedin.com/in/anirudh-rai-072732220](https://www.linkedin.com/in/rocio-alaniz/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
 </p>
 
-<p align="left">
-<a href="https://www.linkedin.com/company/synapseai-group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
-</p>
-
 <br>
 
 ### 🛠 &nbsp;Tech Stack
