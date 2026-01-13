@@ -39,15 +39,11 @@ Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures ·
          height="30"
          width="40" />
   </a>
-
   <a href="https://www.linkedin.com/company/synapseai-group/" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
-         alt="Synapse.ai LinkedIn"
-         height="30"
-         width="40" />
+    Synapse.ai (Company)
   </a>
 </p>
+
 
 
 <br>
