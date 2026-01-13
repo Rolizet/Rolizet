@@ -16,6 +16,7 @@
 Ingeniera en IA Generativa y Arquitecta de IA. CEO & Co-Founder en synapse.ai, liderando el diseño y despliegue de sistemas LLM en producción, incluyendo pipelines RAG, orquestación de agentes y workflows multi-paso. Fuerte base en machine learning, sistemas de datos y arquitecturas basadas en APIs, enfocada en resolver problemas reales de negocio con soluciones de IA escalables.
 
 <br>
+
 Actualmente, soy Founder & CEO en synapse.ai!
 
 <br>
@@ -31,11 +32,11 @@ Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures ·
 - 📫 Como contactarme: rolizetalaniz@gmail.com o a traves de LinkedIn 👇
 
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
+<a href="[https://linkedin.com/in/anirudh-rai-072732220](https://www.linkedin.com/in/rocio-alaniz/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
 </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/company/synapseai-group/?viewAsMember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
+<a href="https://www.linkedin.com/company/synapseai-group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> https://www.linkedin.com/in/rocio-alaniz-4418791ba/
 </p>
 
 <br>
