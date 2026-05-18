@@ -9,27 +9,25 @@
 
 <br>
 
-#### AI Engineer y AI Architect - Prof. de Ingles
+#### AI Engineer | Data Analyst | Prof. de Inglés
 
 <br>
 
-Ingeniera en IA Generativa y Arquitecta de IA. CEO & Co-Founder en synapse.ai, liderando el diseño y despliegue de sistemas LLM en producción, incluyendo pipelines RAG, orquestación de agentes y workflows multi-paso. Fuerte base en machine learning, sistemas de datos y arquitecturas basadas en APIs, enfocada en resolver problemas reales de negocio con soluciones de IA escalables.
+Ingeniera en IA y Analista de Datos con experiencia en el diseño e implementación de soluciones basadas en Python, SQL, Power BI y sistemas de IA generativa. He trabajado en proyectos relacionados con automatización, APIs, procesamiento de datos, workflows con LLMs y pipelines RAG, combinando análisis de datos con herramientas modernas de IA aplicada.
+
+Actualmente trabajo en proyectos de IA generativa, automatización y análisis de datos, participando en el desarrollo de sistemas basados en LLMs, procesamiento de información y arquitecturas orientadas a APIs.
 
 <br>
 
-Actualmente, soy Founder & CEO en synapse.ai!
+Habilidades:  Power BI · Python · SQL · Pandas · NumPy · APIs REST · Git · GitHub · Docker · FastAPI · Data Visualization · Azure · Generative AI (RAG, LLMs)   · Machine Learning
 
 <br>
 
-Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures · Python · Machine Learning · NLP · Vector Databases · API-Driven Architectures · Azure · CI/CD · GitHub Actions
-
-<br>
-
-- 🚀 Trabajo en el diseño y despliegue de sistemas de IA generativa en producción, incluyendo RAG, orquestación de agentes y workflows LLM multi-paso
-- 🧠 Especializada en LLMs, NLP, embeddings y evaluación de modelos 
-- 😄 Pronombre: She 
-- 👯 Abierta a colaborar en proyectos de IA aplicada y soluciones con impacto real en negocio
-- 📫 Como contactarme: rolizetalaniz@gmail.com o a traves de LinkedIn 👇
+- 🚀 Trabajo en proyectos de automatización, análisis de datos y sistemas de IA generativa
+- 🧠 Interés en LLMs, NLP, embeddings y evaluación de modelos
+- 😄 Pronombre: She
+- 👯 Abierta a colaborar en proyectos de IA aplicada, automatización y análisis de datos
+- 📫 Cómo contactarme: rolizetalaniz@gmail.com o a través de LinkedIn 👇
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rocio-alaniz/" target="_blank">
@@ -39,10 +37,6 @@ Habilidades: Generative AI · LLM Systems · RAG · Multi-Agent Architectures ·
          height="30"
          width="40" />
     Rocío Alaniz
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/synapseai-group/" target="_blank">
-    Synapse.ai
   </a>
 </p>
 
